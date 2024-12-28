@@ -1,0 +1,25 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "\"Run Me\"",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FarhanaFH/Full-Stack-Project.git"
+  },
+  "keywords": [
+    "Full",
+    "Stack",
+    "Project"
+  ],
+  "author": "Farhana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FarhanaFH/Full-Stack-Project/issues"
+  },
+  "homepage": "https://github.com/FarhanaFH/Full-Stack-Project#readme"
+}
